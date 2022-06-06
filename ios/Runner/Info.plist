@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Plass</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>user</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>HERECredentials</key>
+	<dict>
+		<key>AccessKeyId</key>
+		<string>BB3Hmc-8SV5sJQTJf-2pGg</string>
+		<key>AccessKeySecret</key>
+		<string>45P15tu2E-WJDvPEgU5HTkgeiUR_PDh8WksGFqYczUd3ocGvd4AwzixKsK0zGuuCj2KPxJq4XfxkOE0AZWG-IQ</string>
+	</dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Cuando permite a Plass acceder a su cámara, podrá tomarse una foto para su foto de perfil.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Cuando comparte su ubicación con Plass, aparecerá su dirección en el formulario de solicitud.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Cuando comparte su ubicación con Plass, aparecerá su dirección en el formulario de solicitud.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Cuando comparte su ubicación con Plass, aparecerá su dirección en el formulario de solicitud.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Cuando comparte su ubicación con Plass, aparecerá su dirección en el formulario de solicitud.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Cuando permite a Plass acceder a su microfono, podrá enviar notas de voz a los socios afiliados.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Utilizamos la detección de movimiento para determinar tu ubicación de forma más precisas, cuando no se encuentra ni se utiliza ninguna señal de GPS..</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Cuando permite a Plass acceder a su galería de fotos, puede seleccionar una para tu foto de perfil.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+</dict>
+</plist>
